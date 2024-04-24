@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(218, 107, 107);
+    margin: 0%;
+}
+.caja1 {
+    background-color: aquamarine;
+    height: 50px;
+}
+
+.caja2 {
+    background-color: rgb(255, 253, 127);
+    height: 50px;
+}
+
+.caja3 {
+    background-color: rgb(138, 80, 231);
+    height: 50px;
+}
+.caja4{
+    background-color: rgb(80, 231, 80);
+    height: 50px;
+}
+.caja5{
+    background-color: rgb(231, 166, 80);
+    height: 50px;
+}
+.caja6{
+    background-color: rgb(80, 231, 186);
+    height: 50px;
+}
+.caja7{
+    background-color: rgb(231, 80, 181);
+    height: 50px;
+}
+.caja8{
+    background-color: rgb(80, 231, 138);
+    height: 50px;
+}
+.caja9{
+    background-color: rgb(95, 80, 231);
+    height: 200px;
+}
+.caja10{
+    background-color: rgb(231, 80, 181);
+    height: 50px;
+}
+.caja11{
+    background-color: rgb(110, 16, 79);
+    height: 50px;
+}
+.caja12{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja13{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja14{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja15{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja16{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja17{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+.caja18{
+    background-color: rgb(231, 80, 181);
+    height: 100px;
+}
+
+.galada-regular {
+    font-family: "Galada", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .circulito{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 100px;
+  }
+  
